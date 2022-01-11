@@ -23,7 +23,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Diego C. :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{cortina17}/count.svg" alt="Diego C. :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
