@@ -78,9 +78,6 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
-  </a>
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
@@ -96,15 +93,15 @@ func GetBio() Bio {
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="Diego C. :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="Diego C. :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="Diego C. :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
