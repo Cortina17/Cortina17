@@ -31,4 +31,4 @@
 
 <h4 align="center">Profile stats</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cortina17show_icons=true&theme=synthwave" alt="Diego C. :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cortina17&show_icons=true&theme=synthwave" alt="Diego C. :: Profile Stats" /></p>
