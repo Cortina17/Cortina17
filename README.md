@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # Diego Cortina
 
-<h2 align="center">About me</h2>
-
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
