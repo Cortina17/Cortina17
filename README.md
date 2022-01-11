@@ -19,34 +19,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">About me</h2>
 
-```golang
-package main
-
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of foodLover-gamer-coder hybrid",
-		"- 🔭 I’m currently working on":      "my coding skills",
-		"- 🌱 I’m currently learning":        "the code basics",
-		"- 👯 I’m looking to collaborate on": "JS related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
-```
-
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
