@@ -27,8 +27,8 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="Diego C. :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=10&theme=tokyonight&layout=compact" alt="Diego C. :: Top Langs" /></p>
 
 <h4 align="center">Profile stats</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="Diego C. :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cortina17show_icons=true&theme=synthwave" alt="Diego C. :: Profile Stats" /></p>
