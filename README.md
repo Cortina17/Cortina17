@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Diego Cortina.
+<h1 align="center"> Hi there 👋 I'm Diego Cortina.</h2>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
