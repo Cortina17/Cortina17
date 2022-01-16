@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <a href="www.linkedin.com/in/diego-cortina">
+  <a href="https://www.linkedin.com/in/diego-cortina">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Diego Cortina's LinkedIn Profile" height="30" width="30">
   </a>
   
