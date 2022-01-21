@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="50"/>
   
 </p>
-<h4 align="center">Profile stats</h4>
+<h4 align="center">:chart_with_downwards_trend: Profile stats</h4> :chart_with_upwards_trend:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cortina17&show_icons=true&theme=shades-of-purple" alt="Diego C. :: Profile Stats" /></p>
 
