@@ -14,7 +14,7 @@
 
 <h4 align="center">:tongue: Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=10&theme=shades-of-purple&layout=compact" alt="Diego C. :: Top Langs" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=9&theme=shades-of-purple&layout=compact" alt="Diego C. :: Top Langs" />
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50"/>
