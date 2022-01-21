@@ -14,7 +14,7 @@
 
 <h4 align="center">:tongue: Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=10&theme=tokyonight&layout=compact" alt="Diego C. :: Top Langs" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=10&theme=shades-of-purple&layout=compact" alt="Diego C. :: Top Langs" />
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"width="50"/>
@@ -29,7 +29,7 @@
 </p>
 <h4 align="center">Profile stats</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cortina17&show_icons=true&theme=synthwave" alt="Diego C. :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cortina17&show_icons=true&theme=shades-of-purple" alt="Diego C. :: Profile Stats" /></p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
