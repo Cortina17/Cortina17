@@ -8,8 +8,6 @@
   </a>
 </p>
 
-<br>
-
 <h2 align="center">:bar_chart: Github stats :bar_chart:</h2>
 
 <h4 align="center">:tongue: Top langs :tongue:</h4>
