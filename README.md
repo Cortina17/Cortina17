@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I'm Diego Cortina.</h2>
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">:alien: You can reach me at :alien:</h2>
 
 <p align="center">
 
@@ -10,7 +10,7 @@
   
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="center">:bar_chart: Github stats :bar_chart:</h2>
 
 <h4 align="center">:tongue: Top langs :tongue:</h4>
 
