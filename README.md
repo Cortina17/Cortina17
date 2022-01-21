@@ -18,9 +18,9 @@
   <br>
   <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-original.svg" alt="php"
   
-  <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://rawcdn.githack.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"
+  
 </p>
-200 × 200
 <h4 align="center">Profile stats</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cortina17&show_icons=true&theme=synthwave" alt="Diego C. :: Profile Stats" /></p>
