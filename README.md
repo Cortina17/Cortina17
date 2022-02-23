@@ -3,7 +3,7 @@
 <h2 align="center">:alien: You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-cortina">
+  <a href="https://www.linkedin.com/in/diego-cortina" target=_blank>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Diego Cortina's LinkedIn Profile" width="40"/>
   </a>
 </p>
