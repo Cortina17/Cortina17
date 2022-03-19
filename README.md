@@ -22,7 +22,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cortina17&show_icons=true&theme=shades-of-purple" alt="Diego C. :: Profile Stats" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cortina17&" alt="cortina17" /></p>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
