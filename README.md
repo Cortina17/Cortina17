@@ -22,6 +22,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cortina17&" alt="cortina17" /></p>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">:eyes: Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{cortina17}/count.svg" alt="Diego C. :: Visitor's Count" /></p>
