@@ -12,7 +12,7 @@
 
 <h4 align="center">:tongue: Stack :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=6&theme=shades-of-purple&layout=compact" alt="Diego C. :: Top Langs" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=6&theme=swift&layout=compact" alt="Diego C. :: Top Langs" />
   <br>
   <br>
 
