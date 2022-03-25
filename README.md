@@ -10,7 +10,7 @@
 
 <h2 align="center">:bar_chart: Github stats :bar_chart:</h2>
 
-<h4 align="center">:tongue: Stack :tongue:</h4>
+<h4 align="center">:desktop_computer:  Stack :desktop_computer:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=6&theme=swift&layout=compact" alt="Diego C. :: Top Langs" />
   <br>
