@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋<br> I'm Diego Cortina.</h2>
+<h1 align="center"> Hi there! 👋<br> I'm Diego Cortina.</h2>
 
 <h2 align="center">:alien: You can reach me at :alien:</h2>
 
