@@ -12,6 +12,7 @@
 
 <h4 align="center">:desktop_computer:  Stack :desktop_computer:</h4>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortina17&langs_count=8&theme=swift&layout=compact" alt="Diego C. :: Top Langs" />
 
   <br>
   <br>
