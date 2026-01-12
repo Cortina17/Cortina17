@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/diego-cortina-garcia" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
       alt="Diego Cortina's LinkedIn Profile" 
-      height="22" style="vertical-align: middle;"/>
+      height="30" style="vertical-align: middle;"/>
   </a>
 </h1>
 
