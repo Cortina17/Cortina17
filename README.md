@@ -1,5 +1,4 @@
-<h1 align="center"> Hi there! 👋<br> I'm Diego Cortina.</h2>
-
+<h1 align="center"> Hi there! 👋<br> I'm Diego Cortina.</h1>
 <h1 align="center"> You can reach me at:
   <a href="https://www.linkedin.com/in/diego-cortina-garcia" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
