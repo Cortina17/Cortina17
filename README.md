@@ -2,9 +2,9 @@
 
 <h1 align="center"> You can reach me at:
   <a href="https://www.linkedin.com/in/diego-cortina-garcia" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Diego Cortina's LinkedIn Profile" 
-      align="middle"
-      width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+      alt="Diego Cortina's LinkedIn Profile" 
+      height="16" style="vertical-align: middle;"/>
   </a>
 </h1>
 
