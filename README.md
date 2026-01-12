@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there! 👋<br> I'm Diego Cortina.</h1>
-<h2 align="center"> You can reach me at: <br>
+<h2 align="center"> You can reach me at: <br><br>
   <a href="https://www.linkedin.com/in/diego-cortina-garcia" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21~bgwhite.svg" 
       alt="Diego Cortina's LinkedIn Profile"/>
